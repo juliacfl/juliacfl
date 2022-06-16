@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @juliacfl
+- 📫 Email julia.chris@gmail.com
+- 👀 I’m interested in learning new languages
+- I'm recently learning how to program the javascript language
